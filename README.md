@@ -12,6 +12,7 @@ To fully test REST API, I suggest to use Postman
 (You can use any other platform that You like)
 
 Methods and endpoints to check:
+
 GET - http://localhost:8080/words - to see the collection of words.
 
 GET - http://localhost:8080/words/unique - to receive unique words from collection.
